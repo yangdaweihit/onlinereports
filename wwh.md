@@ -33,6 +33,15 @@
   - 我们使用相同的工作环境，可以共同积累技术经验，便于交流。
 
 
+## [Vim](#vim)
+
+在真正开始学习编程之前，强烈推荐你学习一款文本编辑器Vim。
+
+学习链接：
+
+- [玩转Vim 从放弃到爱不释手](https://www.imooc.com/learn/1129)
+- [Vim 快速入门(小甲鱼)](https://www.bilibili.com/video/av8261286?from=search&seid=9981812881289187840)
+
 ## [Python](#python)
 
 Python(派森)编程是我们系统开发的重要组成部分，之所以先谈到Python，是因为

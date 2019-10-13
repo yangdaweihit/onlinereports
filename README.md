@@ -41,6 +41,7 @@
 - [Firefox](wwh.md#firefox)
 - [Debian](wwh.md#debian)
 - [VirtualBox](wwh.md#virtualbox)
+- [Vim](wwh.md#vim)
 - [Python](wwh.md#python)
 - [Git](wwh.md#git)
 - [TeXLive](wwh.md#texlive)
