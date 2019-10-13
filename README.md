@@ -14,11 +14,13 @@
 
 1. 阅读README
 
-    adfadf
+    README就是你正在阅读的这篇档，通过README可以了解本项目的：
+    
+    - 目标和方法
+    - 所需要的工作环境和工具
+    - 工作方法
 
 2. [技术准备和培训](train.md)
-
-    adsfadsfk
 
 3. 开发
 
