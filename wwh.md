@@ -4,6 +4,11 @@
 原因，以及如何使用它们。在表述中，我们并不追求概念是否准确，力图简明扼要
 的让大家快速get wwh。
 
+## [Firefox](#firefox)
+
+推荐使用[Firefox(火狐)](http://www.firefox.com.cn/)作为你的主力网页浏览
+器，方便你管理所有学习和工作资源。
+
 
 ## [Debian](#debian)
 
@@ -37,6 +42,7 @@ Python(派森)编程是我们系统开发的重要组成部分，之所以先谈
 学习链接：
 
 - [600集Python从入门到精通教程](https://www.bilibili.com/video/av14184325/)
+- [学习笔记](https://github.com/yangdaweihit/haohaolearn/tree/master/python)
 
 ## [Git](#git)
 

@@ -38,6 +38,7 @@
 
 ## 环境和工具
 
+- [Firefox](wwh.md#firefox)
 - [Debian](wwh.md#debian)
 - [VirtualBox](wwh.md#virtualbox)
 - [Python](wwh.md#python)
