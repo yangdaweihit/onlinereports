@@ -9,7 +9,7 @@
      - 了解项目概念
      - 了解工作环境和工具
    + 待定
-     - 例会时间
+   - 例会时间
 
 出席记录表
 
@@ -31,5 +31,5 @@
 - s: 病假(sick)
 - a: 事假(private affair)
 - l: 迟到(late)
-- e：早退(leave early)
+- e: 早退(leave early)
 - b: 公出(business trip)
