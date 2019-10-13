@@ -10,17 +10,6 @@
 
 ## 指南
 
-```flow
-st=>start: 开始
-rd=>read: 阅读本页文档
-tl=>tool: 技术准备
-trn=>train: 培训 
-dvp=>develop: 培训 
-e=>end: 退出 
-
-st->rd->tl->trn->dvp->end
-```
-
 1. 阅读本文档
 2. 技术准备和培训 
 3. 开发
