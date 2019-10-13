@@ -29,13 +29,14 @@
 
 ## 环境和工具
 
+- [Git](wwh.md#git)
 - [VirtualBox](wwh.md#virtualbox)
 - [Debian](wwh.md#debian)
 - [TeXLive](wwh.md#texlive)
-- [Visual Studio Code](wwh.md)
-- [Markdown](wwh.md)
-- [JSON](wwh.md)
-- [Python](wwh.md)
+- [Visual Studio Code](wwh.md#vscode)
+- [Markdown](wwh.md#markdown)
+- [JSON](wwh.md#json)
+- [Python](wwh.md#pyhton)
 
 
 ## 成员
