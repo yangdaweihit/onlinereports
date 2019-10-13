@@ -31,12 +31,12 @@
 
 - [Debian](wwh.md#debian)
 - [VirtualBox](wwh.md#virtualbox)
+- [Python](wwh.md#pyhton)
 - [Git](wwh.md#git)
 - [TeXLive](wwh.md#texlive)
 - [Visual Studio Code](wwh.md#vscode)
 - [Markdown](wwh.md#markdown)
 - [JSON](wwh.md#json)
-- [Python](wwh.md#pyhton)
 
 
 ## 成员
