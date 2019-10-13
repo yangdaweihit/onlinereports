@@ -20,17 +20,18 @@
 ## [VirtualBox](#virtualbox)
 
 - 下载和安装[virtualbox](https://www.virtualbox.org/wiki/Downloads)
-- 加载已经准备好的Debian系统快照，启动并使用Debian。
+- 加载已经准备好的Debian系统快照，启动并使用Debian。我们提倡的方式是由一
+  位较早参与项目的同学指导你完成这一步。
 - 采用统一的系统快照会给我们带来如下方便：
   - 所有相关软件均已在快照中安装并配置好，省去了安装软件的学习；
   - 我们使用相同的工作环境，可以共同积累技术经验，便于交流。
+
 
 ## [Python](#python)
 
 Python(派森)编程是我们系统开发的重要组成部分，之所以先谈到Python，是因为
 下面的视频链接比较适合对计算机系统和编程都比较陌生的同学，在学习Python的
 同时还了解一下Linux系统。
-
 
 学习链接：
 
