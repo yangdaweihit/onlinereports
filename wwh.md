@@ -22,6 +22,10 @@
 在你成功启动Debian系统之后，你将在老师和其它同学的引导下越来越熟悉并喜欢
 上这个Linux系统。
 
+学习链接：
+
+- [兄弟连Linux视频教程](https://www.bilibili.com/video/av18156598)
+
 ## [VirtualBox](#virtualbox)
 
 - VirtualBox是一款虚拟机软件，用来在你的Windows系统中运行Debian系统。
