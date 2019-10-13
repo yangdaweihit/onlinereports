@@ -31,7 +31,7 @@
 
 - [Debian](wwh.md#debian)
 - [VirtualBox](wwh.md#virtualbox)
-- [Python](wwh.md#pyhton)
+- [Python](wwh.md#python)
 - [Git](wwh.md#git)
 - [TeXLive](wwh.md#texlive)
 - [Visual Studio Code](wwh.md#vscode)
