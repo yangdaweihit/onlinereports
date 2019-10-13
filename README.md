@@ -20,7 +20,7 @@
     - 所需要的工作环境和工具
     - 工作方法
 
-2. [技术准备和培训](train.md)
+2. 技术准备和培训
 
 3. 开发
 
@@ -29,9 +29,9 @@
 
 ## 环境和工具
 
-- [Git](wwh.md#git)
-- [VirtualBox](wwh.md#virtualbox)
 - [Debian](wwh.md#debian)
+- [VirtualBox](wwh.md#virtualbox)
+- [Git](wwh.md#git)
 - [TeXLive](wwh.md#texlive)
 - [Visual Studio Code](wwh.md#vscode)
 - [Markdown](wwh.md#markdown)
