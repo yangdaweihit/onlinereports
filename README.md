@@ -29,7 +29,8 @@
 
 ## 环境和工具
 
-- [Debian10](wwh.md)
+- [VirtualBox](wwh.md#virtualbox)
+- [Debian](wwh.md#debian)
 - [TeXLive](wwh.md)
 - [Visual Studio Code](wwh.md)
 - [Markdown](wwh.md)
