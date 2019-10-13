@@ -10,7 +10,11 @@
 
 ## [Debian + Xfce](#debianxfce)
 
-- 使用终羰
+- 使用终端
+- 快捷键
+- 环境变量
+- vim
+
 
 ## [Git](#git)
 
