@@ -8,6 +8,8 @@
 [在线报告](http://www.onlinereports.cn)是本项目依托的网站，我们的最终成果将实际
 运行在该网站。网站运营方为哈尔滨合正科技有限公司。
 
+如果你希望加入本项目开发，请[联系我们](yangdawei@onlinereports.cn)。
+
 ## 指南
 
 1. 阅读README
@@ -22,10 +24,16 @@
 
     在完成培训后，即可开始参与系统开发。
 
-## 协作方
 
-- 哈尔滨合正科技
-- [Farena A. Elio](who.md)
+## 环境和工具
+
+- [Debian10](wwh.md)
+- [TeXLive](wwh.md)
+- [Visual Studio Code](wwh.md)
+- [Markdown](wwh.md)
+- [JSON](wwh.md)
+- [Python](wwh.md)
+
 
 ## 成员
 
@@ -43,12 +51,3 @@
 | 卢泓博 | 2019级本 | 哈尔滨工业大学 | 2019.10 -       |
 | 吕家弘 | 2019级本 | 哈尔滨工业大学 | 2019.10 -       |
 | 关捷琦 | 2019级本 | 哈尔滨工业大学 | 2019.10 -       |
-
-## 环境和工具
-
-- [Debian10](wwh.md)
-- [TeXLive](wwh.md)
-- [Visual Studio Code](wwh.md)
-- [Markdown](wwh.md)
-- [JSON](wwh.md)
-- [Python](wwh.md)
