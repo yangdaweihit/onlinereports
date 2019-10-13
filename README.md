@@ -38,16 +38,16 @@
 
 ## 环境和工具
 
-- [Firefox](wwh.md#firefox)
-- [Debian](wwh.md#debian)
-- [VirtualBox](wwh.md#virtualbox)
-- [Vim](wwh.md#vim)
-- [Python](wwh.md#python)
-- [Git](wwh.md#git)
-- [TeXLive](wwh.md#texlive)
-- [Visual Studio Code](wwh.md#vscode)
-- [Markdown](wwh.md#markdown)
-- [JSON](wwh.md#json)
+- [Firefox](wwh.md#firefox)：网页浏览器
+- [Debian](wwh.md#debian)：Linux操作系统
+- [VirtualBox](wwh.md#virtualbox)：虚拟机
+- [Vim](wwh.md#vim)：编辑器
+- [Python](wwh.md#python)：编程语言
+- [Git](wwh.md#git)：版本控制系统
+- [TeXLive](wwh.md#texlive)：LaTeX发行版软件
+- [Visual Studio Code](wwh.md#vscode)：编辑器
+- [Markdown](wwh.md#markdown)：标记语言
+- [JSON](wwh.md#json): 数据格式
 
 
 ## 成员
