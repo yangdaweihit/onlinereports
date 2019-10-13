@@ -19,6 +19,7 @@
 
 ## [VirtualBox](#virtualbox)
 
+- VirtualBox是一款虚拟机软件，用来在你的Windows系统中运行Debian系统。
 - 下载和安装[virtualbox](https://www.virtualbox.org/wiki/Downloads)
 - 加载已经准备好的Debian系统快照，启动并使用Debian。我们提倡的方式是由一
   位较早参与项目的同学指导你完成这一步。
@@ -39,12 +40,21 @@ Python(派森)编程是我们系统开发的重要组成部分，之所以先谈
 
 ## [Git](#git)
 
+学习链接：
+
+- [尚硅谷Git和GitHub从入门到精通](https://www.bilibili.com/video/av67967014)
+- [学会Git玩转Github](https://www.bilibili.com/video/av10475153?from=search&seid=17286768959494391090)
+- [Git实用教程(小甲鱼)](https://www.bilibili.com/video/av8261658?from=search&seid=17286768959494391090)
 - [学习笔记](https://github.com/yangdaweihit/haohaolearn/tree/master/git)
 
 ## [LaTeX](#latex)
 
 LaTeX本是学术圈内流行的排版系统，在我们的系统中成为了基础工具。可参照我
 们的[笔记](https://github.com/yangdaweihit/latexreport)快速了解它的使用。
+
+学习链接：
+
+- [LaTeX上这门课就足够了](https://www.bilibili.com/video/av68886822)
 
 ## [TeXLive](#texlive)
 
