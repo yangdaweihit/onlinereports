@@ -31,7 +31,7 @@
 
 - [VirtualBox](wwh.md#virtualbox)
 - [Debian](wwh.md#debian)
-- [TeXLive](wwh.md)
+- [TeXLive](wwh.md#texlive)
 - [Visual Studio Code](wwh.md)
 - [Markdown](wwh.md)
 - [JSON](wwh.md)
