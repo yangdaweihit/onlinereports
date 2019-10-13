@@ -8,7 +8,7 @@
 [在线报告](http://www.onlinereports.cn)是本项目依托的网站，我们的最终成果将实际
 运行在该网站。网站运营方为哈尔滨合正科技有限公司。
 
-如果你希望加入本项目开发，请[联系我们](yangdawei@onlinereports.cn)。
+如果你希望加入本项目开发，请联系我们(yangdawei@onlinereports.cn)。
 
 ## 指南
 
