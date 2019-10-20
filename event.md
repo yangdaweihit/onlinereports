@@ -28,6 +28,7 @@
      - 600集Python从入门到精通教程P11-P40
      - latexwritting.pdf
      - 112分钟学会LATEX.pdf
+     - Liu.pdf page 440-469
      - [提问的艺术：如何快速获得答案](https://blog.csdn.net/ajian005/article/details/81006663)
      - [提問的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)
    + TODO
