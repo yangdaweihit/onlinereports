@@ -7,7 +7,10 @@
 ## [Firefox](#firefox)
 
 推荐使用[Firefox(火狐)](http://www.firefox.com.cn/)作为你的主力网页浏览
-器，方便你管理所有学习和工作资源。
+器，方便你管理所有学习和工作资源。在开始工作之初，你要学会：
+
+- 注册Firefox帐户
+- 管理网页标签
 
 
 ## [Debian](#debian)
@@ -58,6 +61,12 @@ Python(派森)编程是我们系统开发的重要组成部分，之所以先谈
 - [学习笔记](https://github.com/yangdaweihit/haohaolearn/tree/master/python)
 
 ## [Git](#git)
+
+Git是一款版本控制系统，在本项目中主要用于协同开发。由于本项目文档托管在
+[GitHub](www.github.com)上，在参与本项目前你需要：
+
+- 注册GitHub帐号
+- 关注(watch)本项目
 
 学习链接：
 
