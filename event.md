@@ -8,6 +8,9 @@
    + 结果
      - 了解项目概念
      - 了解工作环境和工具
+   + 作业
+     - 兄弟连视步P1-P10
+     - 600集Python从入门到精通教程P1-P10
    + TODO
      - 确定例会时间
      - 完成Debian系统快照
@@ -22,7 +25,7 @@
      - 获取LaTeX学习资料
    + 作业 
      - 兄弟连视步P11-P15
-     - 600集Python从入门到精通教程P11-P25
+     - 600集Python从入门到精通教程P11-P40
      - latexwritting.pdf
      - 112分钟学会LATEX.pdf
      - [提问的艺术：如何快速获得答案](https://blog.csdn.net/ajian005/article/details/81006663)
