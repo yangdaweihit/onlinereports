@@ -25,6 +25,10 @@
 在你成功启动Debian系统之后，你将在老师和其它同学的引导下越来越熟悉并喜欢
 上这个Linux系统。
 
+- [Debian系统镜像](http://resource.onlinereports.cn:8002/linux/Debian10.zip)下载
+- 将下载后的`Debian10.zip`改名为`Debian10.vdi`
+- 系统帐号：`hzpro`；密码：`hz@2019`
+
 学习链接：
 
 - [兄弟连Linux视频教程](https://www.bilibili.com/video/av18156598)
